@@ -40,4 +40,3 @@ print(f"Markus' favorite language is {language}")
 point_value = alien_0.get('points', 'no point value assigned.')
 print(point_value)
 # using get() allows for clearer answers than calling via bracket notation
-
